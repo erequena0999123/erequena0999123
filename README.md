@@ -5,7 +5,7 @@
 
 ###
 
-<img src="https://gifer.com/embed/XOsX" width=480 height=601.567 frameBorder="0" allowFullScreen /><p><a href="https://gifer.com">a través de GIFER</a></p>
+<img src="https://gifer.com/embed/XOsX" width=480 height=601.567 frameBorder="0" allowFullScreen />
 
 ###
 
