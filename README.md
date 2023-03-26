@@ -6,7 +6,7 @@
 ###
 
 <img src="https://raw.githubusercontent.com/erequena/erequena/blob/output/snake.svg" alt="Snake animation" />
-<img src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.studio92.com%2Fgeek%2Fla-historia-detras-del-dinosaurio-que-aparece-en-chrome-cuando-no-hay-internet-noticia-1148068&psig=AOvVaw3orYzAKg2nX9E9bovpOvXG&ust=1679880507912000&source=images&cd=vfe&ved=0CBAQjRxqFwoTCKD85Ni4-P0CFQAAAAAdAAAAABAg" />
+<iframe src="https://giphy.com/embed/KeQgaiv19rCEdVFnW8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/MobTelecom-mob-telecom-mobtelecom-odomdeconectar-KeQgaiv19rCEdVFnW8">via GIPHY</a></p>
 
 ###
 
