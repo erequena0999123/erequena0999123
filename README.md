@@ -6,7 +6,7 @@
 ###
 
 <div align="center">
-    <img src= "https://www.pixel4k.com/wp-content/uploads/2020/08/retrowave-big-city_1596932638-2048x1152.jpg.webp" height="400" width="800" alt= "wallpaper" />
+    <img src= "https://www.pixel4k.com/wp-content/uploads/2020/08/retrowave-big-city_1596932638-2048x1152.jpg.webp" height="450" width="800" alt= "wallpaper" />
 </div>
 
 ###
