@@ -5,8 +5,7 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/erequena/erequena/blob/output/snake.svg" alt="Snake animation" />
-<img src="https://giphy.com/embed/KeQgaiv19rCEdVFnW8" width="480" height="480" frameBorder="0" class="giphy-embed" allowFullScreen> /><p><a href="https://giphy.com/gifs/MobTelecom-mob-telecom-mobtelecom-odomdeconectar-KeQgaiv19rCEdVFnW8">via GIPHY</a></p>
+<iframe src="https://gifer.com/embed/XOsX" width=480 height=601.567 frameBorder="0" allowFullScreen></iframe><p><a href="https://gifer.com">a través de GIFER</a></p>
 
 ###
 
