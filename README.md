@@ -5,7 +5,7 @@
 
 ###
 
-<img src= "[https://www.pixel4k.com/wp-content/uploads/2020/08/retrowave-big-city_1596932638-2048x1152.jpg.webp](https://media.giphy.com/media/uk4Va5MkRp2bfkOk6f/giphy.gif)" height="420" width="200" alt= "wallpaper" />
+<img src= "https://www.pixel4k.com/wp-content/uploads/2020/08/retrowave-big-city_1596932638-2048x1152.jpg.webp" height="200" width="400" alt= "wallpaper" />
 
 ###
 
