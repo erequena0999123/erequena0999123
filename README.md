@@ -38,6 +38,12 @@
   <a href="https://www.instagram.com/invites/contact/?i=cvokci0686o2&utm_content=1zp4em8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram"/>
   </a>
+  <a href="https://www.linkedin.com/in/emmanuel-requena/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="40" alt="LinkedIn"/>
+  </a>
+   <a href="./CV_Emmanuel_Requena.pdf" target="_blank">
+    <img src="https://cdn-icons-png.flaticon.com/512/3135/3135715.png" width="40" alt="CV"/>
+  </a>
   
 </div>
 
