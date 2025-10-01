@@ -1,16 +1,16 @@
-<h1 align="center">Hola 👋, soy Emmanuel Requena</h1>
-<h3 align="center">Desarrollador junior apasionado por la tecnología y el aprendizaje constante</h3>
+<h1 align="center">Hi 👋, I'm Emmanuel Requena</h1>
+<h3 align="center">Junior developer passionate about technology and constant learning</h3>
 
 ---
 
-### ⚡ Acerca de mí
-- 🌎 De Venezuela, actualmente explorando nuevas oportunidades.  
-- 💻 Interesado en **Python, Java, Kotlin y PostgreSQL**.  
-- ⚡ Dato curioso: *Tengo muchas formas de romper el hielo 😅*.  
+### ⚡ About me
+- 🌎 From Venezuela, currently exploring new opportunities.  
+- 💻 Interested in **Python, Java, Web dev and PostgreSQL**.  
+- ⚡ Fun fact: *I have many ways to break the ice 😅*.  
 
 ---
 
-### 🛠️ Tecnologías y Herramientas
+### 🛠️ Technologies and tools
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="HTML5" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="PostgreSQL" />
