@@ -24,11 +24,9 @@
 
 ---
 
-### 🌐 Conecta conmigo
+### 🌐 Connect with me
 <div align="center">
-  <a href="https://wa.me/+593999434992" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/whatsapp/default.svg" width="40" alt="WhatsApp"/>
-  </a>
+  
   <a href="https://discord.com/users/609596371778928660" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="40" alt="Discord"/>
   </a>
@@ -38,9 +36,7 @@
   <a href="https://www.instagram.com/invites/contact/?i=cvokci0686o2&utm_content=1zp4em8" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="40" alt="Instagram"/>
   </a>
-  <a href="mailto:eart1709@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="40" alt="Gmail"/>
-  </a>
+  
 </div>
 
 ---
