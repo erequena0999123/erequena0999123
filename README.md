@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Emmanuel Requena</h1>
 <h3 align="center">Junior developer passionate about technology and constant learning</h3>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/b56613c5-6624-49ca-91b8-8894e8044264" width="400" height="200" alt="Let's Code"/>
+</div>
 
 ---
 
