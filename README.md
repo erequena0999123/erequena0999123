@@ -58,7 +58,7 @@
 
 ---
 
-### 🖼️ Extra
+### 🖼️ Vibes
 <div align="center">
-  <img src="https://www.pixel4k.com/wp-content/uploads/2020/08/retrowave-big-city_1596932638-2048x1152.jpg.webp" width="800" alt="Wallpaper Retro"/>
+  <img src="https://github.com/user-attachments/assets/c7a98d66-5e2c-40eb-87f0-d7327f9fe746" width="800" alt="Wallpaper Retro"/>
 </div>
