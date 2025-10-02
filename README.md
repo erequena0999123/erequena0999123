@@ -25,6 +25,12 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original-wordmark.svg" height="40" alt="Arduino" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="VSCode" />
   <img src="https://cdn.worldvectorlogo.com/logos/adobe-photoshop-2.svg" height="40" alt="Photoshop" />
+  
+</div>
+<div align="center">
+  <img src="https://github.com/user-attachments/assets/171a04f7-d541-4912-b660-9237ce857115"
+    style="display: block; margin: 0 auto;"
+    />
 </div>
 
 ---
